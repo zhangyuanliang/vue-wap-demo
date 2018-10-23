@@ -3,8 +3,8 @@
 > 手机端wap入手项目，技术栈：vue2.0+webpack+es6
 
 #### 展示效果：
-![Image text](https://github.com/zhangyuanliang/vue-wap-demo/blob/master/printscreen/img_1.png)
-![Image text](https://github.com/zhangyuanliang/vue-wap-demo/blob/master/printscreen/img_2.png)
+![Image text](https://github.com/zhangyuanliang/vue-wap-demo/blob/master/printscreen/img_1.jpg)
+![Image text](https://github.com/zhangyuanliang/vue-wap-demo/blob/master/printscreen/img_2.jpg)
 
 ## Build Setup
 
